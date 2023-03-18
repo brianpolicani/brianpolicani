@@ -33,4 +33,4 @@ Next.js
 
 Trabajemos juntos!
 email: brianpolicani@hotmail.com
-LinkedIn: https://www.linkedin.com/in/brian-policani-303683252/
+LinkedIn: https://www.linkedin.com/in/brian-policani/
