@@ -23,7 +23,7 @@ Node.js
 Express.js
 Sequelize
 SQL
-PostgresSQL
+PostgreSQL
 Git
 GitHub
 HTML
