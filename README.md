@@ -1,21 +1,21 @@
-Hola, mi nombre es Brian Policani
+Hola, mi nombre es Brian Policani.
 
-Tambien conocido como brianpolicani en GitHub
+También conocido como brianpolicani en GitHub.
 
-Quien soy?
-Soy un programador Full-Stack amante del back-end y el front-end por igual, no podria elegir un preferido
-Empece en el mundo de la programacion en 2022 y me atrapo muy rapidamente
-Me fascina el hecho de encontrar soluciones a las distintas problematicas que surgen en el camino para generar una mejor experiencia para el cliente
+Quién soy?
+Soy un programador Full-Stack amante del back-end y el front-end por igual, no podría elegir un preferido.
+Empecé en el mundo de la programación en 2022 y me atrapó muy rápidamente.
+Me fascina el hecho de encontrar soluciones a las distintas problemáticas que surgen en el camino para generar una mejor experiencia para el cliente.
 
-Que hago?
-Actualmente me dedico a realizar proyectos pequeños que me ayuden a seguir creciendo como programador, busco nuevos desafios constantemente para adquirir nuevas herramientas
+Qué hago?
+Actualmente me dedico a realizar proyectos que me ayuden a seguir creciendo como programador, busco nuevos desafíos constantemente para adquirir nuevas herramientas.
 
-A donde me dirijo?
-A vivir de lo que me gusta, la programacion!
-La fusion del pensamiento logico y creativo trabajando juntos para buscar soluciones a problemas o nuevos metodos mas eficientes para cosas ya resueltas me resulta algo apasionante, me resulta muy atractivo pensar en todas las capacidades que desarrollo dia a dia en este mundo
+A dónde me dirijo?
+A vivir de lo que me gusta, la programación!
+La fusión del pensamiento lógico y creativo trabajando juntos para buscar soluciones a problemas o nuevos métodos más eficientes para cosas ya resueltas me resulta algo apasionante, me resulta muy atractivo pensar en todas las capacidades que desarrollo día a día en este mundo
 
-Que tecnologias uso?
-Actualmente las tecnologias que manejo son: 
+Qué tecnologías uso?
+Actualmente las tecnologías que manejo son: 
 Javascript
 React
 Redux
@@ -28,9 +28,9 @@ Git
 GitHub
 HTML
 CSS
-las cuales aspiro a seguir perfeccionando aun mas y tambien aspiro a aprender de manera autodidacta tecnologias nuevas como: TypeScript
+Las cuales aspiro a seguir perfeccionando aún más y también aspiro a aprender de manera autodidacta tecnologías nuevas como: TypeScript y Python 
 Next.js
 
 Trabajemos juntos!
-email: brianpolicani@hotmail.com
+Email: brianpolicani@hotmail.com
 LinkedIn: https://www.linkedin.com/in/brian-policani/
