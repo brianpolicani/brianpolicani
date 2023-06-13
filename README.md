@@ -12,7 +12,7 @@ Actualmente me dedico a realizar proyectos que me ayuden a seguir creciendo como
 
 A dónde me dirijo?
 A vivir de lo que me gusta, la programación!
-La fusión del pensamiento lógico y creativo trabajando juntos para buscar soluciones a problemas o nuevos métodos más eficientes para cosas ya resueltas me resulta algo apasionante, me resulta muy atractivo pensar en todas las capacidades que desarrollo día a día en este mundo
+La fusión del pensamiento lógico y creativo trabajando juntos para buscar soluciones a problemas o nuevos métodos más eficientes para cosas ya resueltas me resulta algo apasionante, me resulta muy atractivo pensar en todas las capacidades que desarrollo día a día en este mundo.
 
 Qué tecnologías uso?
 Actualmente las tecnologías que manejo son: 
@@ -28,8 +28,7 @@ Git
 GitHub
 HTML
 CSS
-Las cuales aspiro a seguir perfeccionando aún más y también aspiro a aprender de manera autodidacta tecnologías nuevas como: TypeScript y Python 
-Next.js
+Las cuales aspiro a seguir perfeccionando aún más y también aspiro a aprender de manera autodidacta tecnologías nuevas como: TypeScript y Python.
 
 Trabajemos juntos!
 Email: brianpolicani@hotmail.com
